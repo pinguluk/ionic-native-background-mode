@@ -46,7 +46,7 @@ var BackgroundModeOriginal = /** @class */ (function (_super) {
     BackgroundModeOriginal.pluginName = "BackgroundMode";
     BackgroundModeOriginal.plugin = "cordova-plugin-background-mode";
     BackgroundModeOriginal.pluginRef = "cordova.plugins.backgroundMode";
-    BackgroundModeOriginal.repo = "https://github.com/katzer/cordova-plugin-background-mode";
+    BackgroundModeOriginal.repo = "https://github.com/Mforcen/cordova-plugin-background-mode";
     BackgroundModeOriginal.platforms = ["AmazonFire OS", "Android", "Browser", "iOS", "Windows"];
     return BackgroundModeOriginal;
 }(IonicNativePlugin));

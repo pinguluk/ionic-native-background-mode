@@ -35,7 +35,7 @@ var BackgroundMode = /** @class */ (function (_super) {
     BackgroundMode.pluginName = "BackgroundMode";
     BackgroundMode.plugin = "cordova-plugin-background-mode";
     BackgroundMode.pluginRef = "cordova.plugins.backgroundMode";
-    BackgroundMode.repo = "https://github.com/katzer/cordova-plugin-background-mode";
+    BackgroundMode.repo = "https://github.com/Mforcen/cordova-plugin-background-mode";
     BackgroundMode.platforms = ["AmazonFire OS", "Android", "Browser", "iOS", "Windows"];
     BackgroundMode.decorators = [
         { type: Injectable }

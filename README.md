@@ -11,10 +11,10 @@ $ npm install @ionic-native/background-mode
 
 ## [Usage Documentation](https://ionicframework.com/docs/native/background-mode/)
 
-Plugin Repo: [https://github.com/katzer/cordova-plugin-background-mode](https://github.com/katzer/cordova-plugin-background-mode)
+Plugin Repo: [https://github.com/pinguluk/ionic-native-background-mode](https://github.com/pinguluk/ionic-native-background-mode)
 
 Cordova plugin to prevent the app from going to sleep while in background.
-Requires Cordova plugin: cordova-plugin-background-mode. For more info about plugin, visit: https://github.com/katzer/cordova-plugin-background-mode
+Requires Cordova plugin: cordova-plugin-background-mode. For more info about plugin, visit: https://github.com/Mforcen/cordova-plugin-background-mode
 
 ## Supported platforms
 
@@ -23,6 +23,3 @@ Requires Cordova plugin: cordova-plugin-background-mode. For more info about plu
   - Browser
   - iOS
   - Windows
-  
-
-
